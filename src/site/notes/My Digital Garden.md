@@ -2,5 +2,7 @@
 {"dg-publish":true,"permalink":"/my-digital-garden/","tags":["gardenEntry"]}
 ---
 
+**Welcome to Bath, and welcome to our hostel!** 😍
 
-This is the home page of my Digital Garden.
+Here is some information to help you get settled. If you need help with anything, please ask the management team or your fellow volunteers 🙂
+
